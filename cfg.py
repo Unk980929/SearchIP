@@ -4,7 +4,7 @@ API_HASH = '074d67326cfbcdc5550aeb7aac69d424'
 
 ADMIN = 'Danny5367'
 
-HOST = 'ec2-54-80-122-11.compute-1.amazonaws.com'
-DATABASE = 'd977og0nhcqmju'
-USER = 'fpvqvvfzjslmat'
-PASSWORD = '5c4d921393b081f6b06a24b114fc51115d5ea1f7d3038cd357f0a72d7cf14a94'
+HOST = 'ec2-52-86-115-245.compute-1.amazonaws.com'
+DATABASE = 'de5jqnu02hq9bf'
+USER = 'cvasqvezouoilb'
+PASSWORD = '9e40a03cc8979fe46fcc279cc0f2530ac34e2b18e86d948bd0c4e29d42c752eb'
