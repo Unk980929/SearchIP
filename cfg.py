@@ -1,0 +1,10 @@
+TOKEN = '5267817565:AAFcR_F9Adn_Q6Os0bRM_X7yIIeIXW1D9JY'
+API_ID = 14429012
+API_HASH = '074d67326cfbcdc5550aeb7aac69d424'
+
+ADMIN = 'Danny5367'
+
+HOST = 'ec2-54-80-122-11.compute-1.amazonaws.com'
+DATABASE = 'd977og0nhcqmju'
+USER = 'fpvqvvfzjslmat'
+PASSWORD = '5c4d921393b081f6b06a24b114fc51115d5ea1f7d3038cd357f0a72d7cf14a94'
