@@ -117,7 +117,7 @@ async def start(app: events.NewMessage.Event):
     """)
     rows = cursor.fetchall()
     if len(rows) == 0:
-        await app.respond(f'❗️Hola! @{username}\n\n❕Para poder usar el Bot contacte con mi desarrollador @JeanPssss ❕')
+        await app.respond(f'❗️Hola! @{username}\n\n❕Para poder usar el Bot contacte con mi desarrollador @Unk980929❕')
     else:
         await app.reply(f'Hola! @{username}',
         buttons=[
@@ -139,7 +139,7 @@ async def help(app: events.CallbackQuery.Event):
 
     await app.edit('100 CUP = Pago mediante Transferencia Bancaria.\n150 CUP = Pago mediante Transferencia de Saldo.\n\nPara más información Contactar al Desarrollador.',
     buttons=[
-        [Button.url('⚙️ Desarrollador ⚙️', 'https://t.me/JeanPssss')],
+        [Button.url('⚙️ Desarrollador ⚙️', 'https://t.me/Unk980929')],
         [Button.inline('❕Atrás❕', data='start')],
     ])
 
